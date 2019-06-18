@@ -1,9 +1,8 @@
 /***************************************************************************************************
-** Author: Kurt Kaiser
-** Date: 06.10.2019
-** Course: CS 162 400 S2019
-** Description:  Final Project - design and implement a one-player, text-based game
-** where the player can move through spaces to get items and accomplish goals.
+** Author:  Kurt Kaiser
+** Website: kurtkaiser.us
+** Info:    Designed a one-player, text-based game, the player can move through 
+**     	    spaces to get items and accomplish goals.
 ****************************************************************************************************/
 #include <iostream>
 #include <string>
